@@ -57,7 +57,7 @@ Backlog SetOption1 1; SetOption65 1; SetOption66 1
 
 Switch the device to battery powered sensor mode (fnId 51):
 ```console
-TuyaMCU 51,51
+TuyaMCU 51,21
 ```
 
 Check with `TuyaMCU` for the following configuration:
